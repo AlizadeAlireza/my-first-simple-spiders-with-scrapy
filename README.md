@@ -1,4 +1,4 @@
-# my-first-simple-spider-with-scrapy
+# my-first-simple-spiders-with-scrapy
 this is my first simple scraper that i learned it from scrapy library "https://docs.scrapy.org/en/latest/intro/tutorial.html".
 in this project i scrape and extract information that i need and store the information in a json file.
 we have 2 different code that you should see and try it.
